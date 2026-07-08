@@ -69,6 +69,12 @@ Required variables:
 
 ### 4. Run the server
 
+For development (auto-restarts on file changes using nodemon):
+```bash
+npm run dev
+```
+
+For production:
 ```bash
 npm start
 ```
